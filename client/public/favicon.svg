@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 0L35.3205 8.82051V26.4615L20 35.2821L4.67949 26.4615V8.82051L20 0Z" fill="currentColor"/>
+  <path d="M20 4L31.547 10.6923V24.0769L20 30.7692L8.45299 24.0769V10.6923L20 4Z" fill="white"/>
+  <path d="M20 8L27.7735 12.5641V21.6923L20 26.2564L12.2265 21.6923V12.5641L20 8Z" fill="currentColor"/>
+  <style>
+    path { color: hsl(222.2, 47.4%, 11.2%); }
+    @media (prefers-color-scheme: dark) {
+      path { color: hsl(210, 40%, 98%); }
+    }
+  </style>
+</svg>
